@@ -1,0 +1,1164 @@
+fileFormatVersion: 2
+guid: 65f61ff479b38f642ad777b655364396
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1645648355385928503
+    second: red-apple-game-sprites_7814-472_0
+  - first:
+      213: 7670268950557139587
+    second: red-apple-game-sprites_7814-472_1
+  - first:
+      213: 6656024086189031828
+    second: red-apple-game-sprites_7814-472_2
+  - first:
+      213: -3086888590984142560
+    second: red-apple-game-sprites_7814-472_3
+  - first:
+      213: -4822654880221423783
+    second: red-apple-game-sprites_7814-472_4
+  - first:
+      213: 314479526336806703
+    second: red-apple-game-sprites_7814-472_5
+  - first:
+      213: -7792585359394155546
+    second: red-apple-game-sprites_7814-472_6
+  - first:
+      213: -1526317573298279206
+    second: red-apple-game-sprites_7814-472_7
+  - first:
+      213: -7342911082759494640
+    second: red-apple-game-sprites_7814-472_8
+  - first:
+      213: 932209212327345029
+    second: red-apple-game-sprites_7814-472_9
+  - first:
+      213: -4288355814861738948
+    second: red-apple-game-sprites_7814-472_10
+  - first:
+      213: 2805863360695206032
+    second: red-apple-game-sprites_7814-472_11
+  - first:
+      213: -8581807489441889086
+    second: red-apple-game-sprites_7814-472_12
+  - first:
+      213: 2951005109052670014
+    second: red-apple-game-sprites_7814-472_13
+  - first:
+      213: -9075740090963376159
+    second: red-apple-game-sprites_7814-472_14
+  - first:
+      213: -9199059130706755923
+    second: red-apple-game-sprites_7814-472_15
+  - first:
+      213: -4883984292477630863
+    second: red-apple-game-sprites_7814-472_16
+  - first:
+      213: 8185177963203491475
+    second: red-apple-game-sprites_7814-472_17
+  - first:
+      213: 714291225394911029
+    second: red-apple-game-sprites_7814-472_18
+  - first:
+      213: 1052228868941566049
+    second: red-apple-game-sprites_7814-472_19
+  - first:
+      213: -5721389097956480864
+    second: red-apple-game-sprites_7814-472_20
+  - first:
+      213: 6936375093033089897
+    second: red-apple-game-sprites_7814-472_21
+  - first:
+      213: 5037259931302562910
+    second: red-apple-game-sprites_7814-472_22
+  - first:
+      213: 8523462284944264840
+    second: red-apple-game-sprites_7814-472_23
+  - first:
+      213: -9073801562777839174
+    second: red-apple-game-sprites_7814-472_24
+  - first:
+      213: 492040054154858863
+    second: red-apple-game-sprites_7814-472_25
+  - first:
+      213: 2165610664686225997
+    second: red-apple-game-sprites_7814-472_26
+  - first:
+      213: -4706253589956382246
+    second: red-apple-game-sprites_7814-472_27
+  - first:
+      213: 5674431805593742297
+    second: red-apple-game-sprites_7814-472_28
+  - first:
+      213: -4094353580889837245
+    second: red-apple-game-sprites_7814-472_29
+  - first:
+      213: -2472764562547940262
+    second: red-apple-game-sprites_7814-472_30
+  - first:
+      213: -2329902007013267571
+    second: red-apple-game-sprites_7814-472_31
+  - first:
+      213: -2324939317544571743
+    second: red-apple-game-sprites_7814-472_32
+  - first:
+      213: 8590762211338184419
+    second: red-apple-game-sprites_7814-472_33
+  - first:
+      213: -3898534470398381572
+    second: red-apple-game-sprites_7814-472_34
+  - first:
+      213: 3254161561150802552
+    second: red-apple-game-sprites_7814-472_35
+  - first:
+      213: 2686662907134423778
+    second: red-apple-game-sprites_7814-472_36
+  - first:
+      213: 6633244809626273154
+    second: red-apple-game-sprites_7814-472_37
+  - first:
+      213: 7976845859773753386
+    second: red-apple-game-sprites_7814-472_38
+  - first:
+      213: -4975015535957215811
+    second: red-apple-game-sprites_7814-472_39
+  - first:
+      213: 4778655003788470821
+    second: red-apple-game-sprites_7814-472_40
+  - first:
+      213: 5637923808778519658
+    second: red-apple-game-sprites_7814-472_41
+  - first:
+      213: -5011384702282444679
+    second: red-apple-game-sprites_7814-472_42
+  - first:
+      213: 8228896214324282367
+    second: red-apple-game-sprites_7814-472_43
+  - first:
+      213: 1174829064128484218
+    second: red-apple-game-sprites_7814-472_44
+  - first:
+      213: -549505418120283431
+    second: red-apple-game-sprites_7814-472_45
+  - first:
+      213: 1443581948747830984
+    second: red-apple-game-sprites_7814-472_46
+  - first:
+      213: -5317165403493269076
+    second: red-apple-game-sprites_7814-472_47
+  - first:
+      213: 5268462987188096589
+    second: red-apple-game-sprites_7814-472_48
+  - first:
+      213: -2183021019687590865
+    second: red-apple-game-sprites_7814-472_49
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 150
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: red-apple-game-sprites_7814-472_0
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1685
+        width: 160
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c414003a8b7929e0800000000000000
+      internalID: -1645648355385928503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red-apple-game-sprites_7814-472_1
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 1685
+        width: 160
+        height: 184
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 382aaa1c8f4427a60800000000000000
+      internalID: 7670268950557139587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red-apple-game-sprites_7814-472_2
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 1685
+        width: 160
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 491cdb924a2fe5c50800000000000000
+      internalID: 6656024086189031828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red-apple-game-sprites_7814-472_3
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 1685
+        width: 160
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0212f297e2b2925d0800000000000000
+      internalID: -3086888590984142560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red-apple-game-sprites_7814-472_4
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 1447
+        width: 142
+        height: 179
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 957191e10fc721db0800000000000000
+      internalID: -4822654880221423783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red-apple-game-sprites_7814-472_5
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 1447
+        width: 159
+        height: 184
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2f307886714d5400800000000000000
+      internalID: 314479526336806703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red-apple-game-sprites_7814-472_6
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 1447
+        width: 147
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e3d66b07ec2bd390800000000000000
+      internalID: -7792585359394155546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red-apple-game-sprites_7814-472_7
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 1447
+        width: 135
+        height: 179
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adcae1df04e61dae0800000000000000
+      internalID: -1526317573298279206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red-apple-game-sprites_7814-472_8
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 1447
+        width: 191
+        height: 184
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01467de464db81a90800000000000000
+      internalID: -7342911082759494640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red-apple-game-sprites_7814-472_9
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 1447
+        width: 165
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58b3e1de65fdfec00800000000000000
+      internalID: 932209212327345029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red-apple-game-sprites_7814-472_10
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 1183
+        width: 160
+        height: 184
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3c6fa86b13bc74c0800000000000000
+      internalID: -4288355814861738948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red-apple-game-sprites_7814-472_11
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 1183
+        width: 155
+        height: 175
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09085864cdd60f620800000000000000
+      internalID: 2805863360695206032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red-apple-game-sprites_7814-472_12
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 1183
+        width: 154
+        height: 197
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c487058e8b47e880800000000000000
+      internalID: -8581807489441889086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red-apple-game-sprites_7814-472_13
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 1183
+        width: 175
+        height: 206
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e308277f28314f820800000000000000
+      internalID: 2951005109052670014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red-apple-game-sprites_7814-472_14
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 1183
+        width: 197
+        height: 170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e74b5cf87e7c0280800000000000000
+      internalID: -9075740090963376159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red-apple-game-sprites_7814-472_15
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 933
+        width: 159
+        height: 184
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daef8669570665080800000000000000
+      internalID: -9199059130706755923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red-apple-game-sprites_7814-472_16
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 933
+        width: 155
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1768846992a983cb0800000000000000
+      internalID: -4883984292477630863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red-apple-game-sprites_7814-472_17
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 933
+        width: 155
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39679189df7979170800000000000000
+      internalID: 8185177963203491475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red-apple-game-sprites_7814-472_18
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 933
+        width: 189
+        height: 184
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53797d3c51ca9e900800000000000000
+      internalID: 714291225394911029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red-apple-game-sprites_7814-472_19
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 933
+        width: 134
+        height: 184
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1605ca3d4944a9e00800000000000000
+      internalID: 1052228868941566049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red-apple-game-sprites_7814-472_20
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 936
+        width: 161
+        height: 177
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a8e28abdea8990b0800000000000000
+      internalID: -5721389097956480864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red-apple-game-sprites_7814-472_21
+      rect:
+        serializedVersion: 2
+        x: 1234
+        y: 936
+        width: 161
+        height: 177
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96bba198564f24060800000000000000
+      internalID: 6936375093033089897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red-apple-game-sprites_7814-472_27
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 656
+        width: 200
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad13eb37b4700beb0800000000000000
+      internalID: -4706253589956382246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red-apple-game-sprites_7814-472_30
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 656
+        width: 205
+        height: 217
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a54e72c4bb9feadd0800000000000000
+      internalID: -2472764562547940262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red-apple-game-sprites_7814-472_31
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 656
+        width: 198
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d87218e08768aafd0800000000000000
+      internalID: -2329902007013267571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red-apple-game-sprites_7814-472_32
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 656
+        width: 170
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1acaa6d32082cbfd0800000000000000
+      internalID: -2324939317544571743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red-apple-game-sprites_7814-472_33
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 656
+        width: 169
+        height: 182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e669a427b4883770800000000000000
+      internalID: 8590762211338184419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red-apple-game-sprites_7814-472_34
+      rect:
+        serializedVersion: 2
+        x: 1239
+        y: 657
+        width: 171
+        height: 176
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf1f943fd8f95e9c0800000000000000
+      internalID: -3898534470398381572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red-apple-game-sprites_7814-472_35
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 686
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87acf16d2ba192d20800000000000000
+      internalID: 3254161561150802552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red-apple-game-sprites_7814-472_36
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 395
+        width: 161
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e237f2fda1f84520800000000000000
+      internalID: 2686662907134423778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red-apple-game-sprites_7814-472_37
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 396
+        width: 136
+        height: 189
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2854af982050e0c50800000000000000
+      internalID: 6633244809626273154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red-apple-game-sprites_7814-472_38
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 395
+        width: 160
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a282cdbdb0373be60800000000000000
+      internalID: 7976845859773753386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red-apple-game-sprites_7814-472_40
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 394
+        width: 207
+        height: 191
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52a64f45861315240800000000000000
+      internalID: 4778655003788470821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red-apple-game-sprites_7814-472_41
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 396
+        width: 159
+        height: 184
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6406f445dded3e40800000000000000
+      internalID: 5637923808778519658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red-apple-game-sprites_7814-472_42
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 395
+        width: 200
+        height: 187
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 970d0ab2a2cf37ab0800000000000000
+      internalID: -5011384702282444679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red-apple-game-sprites_7814-472_43
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 395
+        width: 200
+        height: 187
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff30b542289e23270800000000000000
+      internalID: 8228896214324282367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red-apple-game-sprites_7814-472_44
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 140
+        width: 159
+        height: 184
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a73de2f2fc4dd4010800000000000000
+      internalID: 1174829064128484218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red-apple-game-sprites_7814-472_45
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 139
+        width: 200
+        height: 187
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dab9cecbb3cf58f0800000000000000
+      internalID: -549505418120283431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red-apple-game-sprites_7814-472_46
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 139
+        width: 170
+        height: 189
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c6d74b4222a80410800000000000000
+      internalID: 1443581948747830984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red-apple-game-sprites_7814-472_47
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 139
+        width: 181
+        height: 175
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca189c0bc32a536b0800000000000000
+      internalID: -5317165403493269076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red-apple-game-sprites_7814-472_48
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 139
+        width: 184
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4ec3af5c275d1940800000000000000
+      internalID: 5268462987188096589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: red-apple-game-sprites_7814-472_49
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 131
+        width: 189
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f246f40e2f954b1e0800000000000000
+      internalID: -2183021019687590865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

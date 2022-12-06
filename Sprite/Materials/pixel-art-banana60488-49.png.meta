@@ -1,0 +1,3948 @@
+fileFormatVersion: 2
+guid: 890b551d65567f84a99f8bfe6c18fa9d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3322652822744097770
+    second: pixel-art-banana60488-49_0
+  - first:
+      213: 7386059221401334849
+    second: pixel-art-banana60488-49_1
+  - first:
+      213: 4300786395852858464
+    second: pixel-art-banana60488-49_2
+  - first:
+      213: 2515574785122353204
+    second: pixel-art-banana60488-49_3
+  - first:
+      213: -4528157350165858847
+    second: pixel-art-banana60488-49_4
+  - first:
+      213: -2653867806780450544
+    second: pixel-art-banana60488-49_5
+  - first:
+      213: 3568395525349505464
+    second: pixel-art-banana60488-49_6
+  - first:
+      213: -7831906047939748884
+    second: pixel-art-banana60488-49_7
+  - first:
+      213: 3240983686321199080
+    second: pixel-art-banana60488-49_8
+  - first:
+      213: -313444424916989190
+    second: pixel-art-banana60488-49_9
+  - first:
+      213: 3264118648405199770
+    second: pixel-art-banana60488-49_10
+  - first:
+      213: 430737660574801609
+    second: pixel-art-banana60488-49_11
+  - first:
+      213: -7881956491551091764
+    second: pixel-art-banana60488-49_12
+  - first:
+      213: -3478840438701016047
+    second: pixel-art-banana60488-49_13
+  - first:
+      213: -1912190875435031022
+    second: pixel-art-banana60488-49_14
+  - first:
+      213: -8907763532856883252
+    second: pixel-art-banana60488-49_15
+  - first:
+      213: 6879267401029646669
+    second: pixel-art-banana60488-49_16
+  - first:
+      213: 7983486486966545318
+    second: pixel-art-banana60488-49_17
+  - first:
+      213: 6286878011073855614
+    second: pixel-art-banana60488-49_18
+  - first:
+      213: -8345923317682271459
+    second: pixel-art-banana60488-49_19
+  - first:
+      213: 6891551437012785355
+    second: pixel-art-banana60488-49_20
+  - first:
+      213: 3450807481944947350
+    second: pixel-art-banana60488-49_21
+  - first:
+      213: -6012227908243064954
+    second: pixel-art-banana60488-49_22
+  - first:
+      213: 8061820020526871709
+    second: pixel-art-banana60488-49_23
+  - first:
+      213: -118653233294967929
+    second: pixel-art-banana60488-49_24
+  - first:
+      213: -1052400510521518657
+    second: pixel-art-banana60488-49_25
+  - first:
+      213: 834854306946511314
+    second: pixel-art-banana60488-49_26
+  - first:
+      213: 8395599918833871108
+    second: pixel-art-banana60488-49_27
+  - first:
+      213: 4404073655369872088
+    second: pixel-art-banana60488-49_28
+  - first:
+      213: 5444906467267613525
+    second: pixel-art-banana60488-49_29
+  - first:
+      213: -7880530163698798862
+    second: pixel-art-banana60488-49_30
+  - first:
+      213: -4556883795416689222
+    second: pixel-art-banana60488-49_31
+  - first:
+      213: -6994181805693331823
+    second: pixel-art-banana60488-49_32
+  - first:
+      213: -3953057902267818175
+    second: pixel-art-banana60488-49_33
+  - first:
+      213: -3350394005025062777
+    second: pixel-art-banana60488-49_34
+  - first:
+      213: 2425941543101206906
+    second: pixel-art-banana60488-49_35
+  - first:
+      213: 576326988458853542
+    second: pixel-art-banana60488-49_36
+  - first:
+      213: 7403942384928129186
+    second: pixel-art-banana60488-49_37
+  - first:
+      213: 5364342344641612659
+    second: pixel-art-banana60488-49_38
+  - first:
+      213: -8846994609463108509
+    second: pixel-art-banana60488-49_39
+  - first:
+      213: -2644813121632729251
+    second: pixel-art-banana60488-49_40
+  - first:
+      213: -1679755434163836031
+    second: pixel-art-banana60488-49_41
+  - first:
+      213: -7530903864673653878
+    second: pixel-art-banana60488-49_42
+  - first:
+      213: -5618948912647045351
+    second: pixel-art-banana60488-49_43
+  - first:
+      213: -2740951205850613540
+    second: pixel-art-banana60488-49_44
+  - first:
+      213: 3601811375618924381
+    second: pixel-art-banana60488-49_45
+  - first:
+      213: -2130388022462973375
+    second: pixel-art-banana60488-49_46
+  - first:
+      213: -8398099956009241137
+    second: pixel-art-banana60488-49_47
+  - first:
+      213: -2810973618217756470
+    second: pixel-art-banana60488-49_48
+  - first:
+      213: -5035994959156769427
+    second: pixel-art-banana60488-49_49
+  - first:
+      213: 8874294612263060488
+    second: pixel-art-banana60488-49_50
+  - first:
+      213: 1301563290124499735
+    second: pixel-art-banana60488-49_51
+  - first:
+      213: 1706249939303655438
+    second: pixel-art-banana60488-49_52
+  - first:
+      213: -4964117003088619211
+    second: pixel-art-banana60488-49_53
+  - first:
+      213: 1116954402371886104
+    second: pixel-art-banana60488-49_54
+  - first:
+      213: 702058911073295623
+    second: pixel-art-banana60488-49_55
+  - first:
+      213: 6635327331546383965
+    second: pixel-art-banana60488-49_56
+  - first:
+      213: 584841552376577140
+    second: pixel-art-banana60488-49_57
+  - first:
+      213: 306147661639131886
+    second: pixel-art-banana60488-49_58
+  - first:
+      213: -8364703890060118844
+    second: pixel-art-banana60488-49_59
+  - first:
+      213: -4178641560418617790
+    second: pixel-art-banana60488-49_60
+  - first:
+      213: -6017400941507756041
+    second: pixel-art-banana60488-49_61
+  - first:
+      213: 1304385726528535810
+    second: pixel-art-banana60488-49_62
+  - first:
+      213: -3551015421895730050
+    second: pixel-art-banana60488-49_63
+  - first:
+      213: -4635401657252409061
+    second: pixel-art-banana60488-49_64
+  - first:
+      213: 7397386592414529369
+    second: pixel-art-banana60488-49_65
+  - first:
+      213: 8494342052633794113
+    second: pixel-art-banana60488-49_66
+  - first:
+      213: 6810727614470582996
+    second: pixel-art-banana60488-49_67
+  - first:
+      213: -4925758311969302943
+    second: pixel-art-banana60488-49_68
+  - first:
+      213: 3303604887756508789
+    second: pixel-art-banana60488-49_69
+  - first:
+      213: 993203040431266785
+    second: pixel-art-banana60488-49_70
+  - first:
+      213: 3075657381553015721
+    second: pixel-art-banana60488-49_71
+  - first:
+      213: -3262439921920978010
+    second: pixel-art-banana60488-49_72
+  - first:
+      213: -3754917902918512337
+    second: pixel-art-banana60488-49_73
+  - first:
+      213: -6135922184964433710
+    second: pixel-art-banana60488-49_74
+  - first:
+      213: -6234231745770952606
+    second: pixel-art-banana60488-49_75
+  - first:
+      213: -3267735199208303231
+    second: pixel-art-banana60488-49_76
+  - first:
+      213: -238954781145344948
+    second: pixel-art-banana60488-49_77
+  - first:
+      213: 1319205385197446658
+    second: pixel-art-banana60488-49_78
+  - first:
+      213: 975274220703783335
+    second: pixel-art-banana60488-49_79
+  - first:
+      213: -2964111070646571169
+    second: pixel-art-banana60488-49_80
+  - first:
+      213: -5042433842395114165
+    second: pixel-art-banana60488-49_81
+  - first:
+      213: -2127920246440314877
+    second: pixel-art-banana60488-49_82
+  - first:
+      213: -804679932128135266
+    second: pixel-art-banana60488-49_83
+  - first:
+      213: -6222356266826179290
+    second: pixel-art-banana60488-49_84
+  - first:
+      213: -3410655154689265314
+    second: pixel-art-banana60488-49_85
+  - first:
+      213: -7113683561107993329
+    second: pixel-art-banana60488-49_86
+  - first:
+      213: -2539930350030117309
+    second: pixel-art-banana60488-49_87
+  - first:
+      213: 7822607438582073774
+    second: pixel-art-banana60488-49_88
+  - first:
+      213: -8679866668326516564
+    second: pixel-art-banana60488-49_89
+  - first:
+      213: -6701809845372732469
+    second: pixel-art-banana60488-49_90
+  - first:
+      213: -8333031499069597208
+    second: pixel-art-banana60488-49_91
+  - first:
+      213: 3947697376782239170
+    second: pixel-art-banana60488-49_92
+  - first:
+      213: 6597842415184309936
+    second: pixel-art-banana60488-49_93
+  - first:
+      213: 6241780310875120315
+    second: pixel-art-banana60488-49_94
+  - first:
+      213: -6136261456215197791
+    second: pixel-art-banana60488-49_95
+  - first:
+      213: 2453313120614046532
+    second: pixel-art-banana60488-49_96
+  - first:
+      213: -6825725475127991341
+    second: pixel-art-banana60488-49_97
+  - first:
+      213: -8658354483812915291
+    second: pixel-art-banana60488-49_98
+  - first:
+      213: -4420071481542406789
+    second: pixel-art-banana60488-49_99
+  - first:
+      213: 7195498887731495196
+    second: pixel-art-banana60488-49_100
+  - first:
+      213: 3171182916631050868
+    second: pixel-art-banana60488-49_101
+  - first:
+      213: 7377630341783883284
+    second: pixel-art-banana60488-49_102
+  - first:
+      213: 1126277278893284837
+    second: pixel-art-banana60488-49_103
+  - first:
+      213: 3908334023778561534
+    second: pixel-art-banana60488-49_104
+  - first:
+      213: -6386988179561239852
+    second: pixel-art-banana60488-49_105
+  - first:
+      213: 8600465298461883465
+    second: pixel-art-banana60488-49_106
+  - first:
+      213: 1054824024805185238
+    second: pixel-art-banana60488-49_107
+  - first:
+      213: -2646402124187378011
+    second: pixel-art-banana60488-49_108
+  - first:
+      213: 7040287574874052426
+    second: pixel-art-banana60488-49_109
+  - first:
+      213: 3482505094565157945
+    second: pixel-art-banana60488-49_110
+  - first:
+      213: -8226247155248348179
+    second: pixel-art-banana60488-49_111
+  - first:
+      213: -3716732634466446463
+    second: pixel-art-banana60488-49_112
+  - first:
+      213: -6543191107339028467
+    second: pixel-art-banana60488-49_113
+  - first:
+      213: -533107227854023396
+    second: pixel-art-banana60488-49_114
+  - first:
+      213: 5717360952903592672
+    second: pixel-art-banana60488-49_115
+  - first:
+      213: -5631580799592548774
+    second: pixel-art-banana60488-49_116
+  - first:
+      213: 3437167894581569714
+    second: pixel-art-banana60488-49_117
+  - first:
+      213: -4786255160991739328
+    second: pixel-art-banana60488-49_118
+  - first:
+      213: -4115768311130437724
+    second: pixel-art-banana60488-49_119
+  - first:
+      213: 3624826252836371259
+    second: pixel-art-banana60488-49_120
+  - first:
+      213: 2164472876099074891
+    second: pixel-art-banana60488-49_121
+  - first:
+      213: 2362213283672652253
+    second: pixel-art-banana60488-49_122
+  - first:
+      213: -908541374547589244
+    second: pixel-art-banana60488-49_123
+  - first:
+      213: 3578558349841487916
+    second: pixel-art-banana60488-49_124
+  - first:
+      213: -7886646047331328442
+    second: pixel-art-banana60488-49_125
+  - first:
+      213: 7657216694442840883
+    second: pixel-art-banana60488-49_126
+  - first:
+      213: -4171796395090391031
+    second: pixel-art-banana60488-49_127
+  - first:
+      213: 6565228834772830789
+    second: pixel-art-banana60488-49_128
+  - first:
+      213: -8849813635024631612
+    second: pixel-art-banana60488-49_129
+  - first:
+      213: -2325883541080120113
+    second: pixel-art-banana60488-49_130
+  - first:
+      213: -4462157766338805854
+    second: pixel-art-banana60488-49_131
+  - first:
+      213: 6536960107757357499
+    second: pixel-art-banana60488-49_132
+  - first:
+      213: 4811697715585845852
+    second: pixel-art-banana60488-49_133
+  - first:
+      213: 3407483983344916014
+    second: pixel-art-banana60488-49_134
+  - first:
+      213: -1736182772732336307
+    second: pixel-art-banana60488-49_135
+  - first:
+      213: 8668216653266936212
+    second: pixel-art-banana60488-49_136
+  - first:
+      213: -2756135436872801231
+    second: pixel-art-banana60488-49_137
+  - first:
+      213: 5687021979328902283
+    second: pixel-art-banana60488-49_138
+  - first:
+      213: -2046431852294249233
+    second: pixel-art-banana60488-49_139
+  - first:
+      213: -7638666123407092350
+    second: pixel-art-banana60488-49_140
+  - first:
+      213: -5927174860488386082
+    second: pixel-art-banana60488-49_141
+  - first:
+      213: -2520643462595295149
+    second: pixel-art-banana60488-49_142
+  - first:
+      213: 7667327137796942152
+    second: pixel-art-banana60488-49_143
+  - first:
+      213: -2833972449575302979
+    second: pixel-art-banana60488-49_144
+  - first:
+      213: 3051423256728893108
+    second: pixel-art-banana60488-49_145
+  - first:
+      213: -7563605091524065640
+    second: pixel-art-banana60488-49_146
+  - first:
+      213: 6083793371870034769
+    second: pixel-art-banana60488-49_147
+  - first:
+      213: 4698594668544825789
+    second: pixel-art-banana60488-49_148
+  - first:
+      213: 4459905122371505379
+    second: pixel-art-banana60488-49_149
+  - first:
+      213: -8777268134937182571
+    second: pixel-art-banana60488-49_150
+  - first:
+      213: -6224708569751233370
+    second: pixel-art-banana60488-49_151
+  - first:
+      213: -7541066887714025589
+    second: pixel-art-banana60488-49_152
+  - first:
+      213: -1445381813293120996
+    second: pixel-art-banana60488-49_153
+  - first:
+      213: 5405315483593177745
+    second: pixel-art-banana60488-49_154
+  - first:
+      213: 6531824357236426682
+    second: pixel-art-banana60488-49_155
+  - first:
+      213: -957854172083164043
+    second: pixel-art-banana60488-49_156
+  - first:
+      213: 901883513737827557
+    second: pixel-art-banana60488-49_157
+  - first:
+      213: 9087092459233918118
+    second: pixel-art-banana60488-49_158
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 150
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pixel-art-banana60488-49_0
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 664
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae36c9b532f6c1e20800000000000000
+      internalID: 3322652822744097770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-banana60488-49_1
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 664
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 144ff959abd808660800000000000000
+      internalID: 7386059221401334849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-banana60488-49_2
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 664
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06464a3c0767fab30800000000000000
+      internalID: 4300786395852858464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-banana60488-49_3
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 628
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 430c52160fd19e220800000000000000
+      internalID: 2515574785122353204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-banana60488-49_4
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 628
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e53a4891e0c821c0800000000000000
+      internalID: -4528157350165858847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-banana60488-49_5
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 628
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01991006a419b2bd0800000000000000
+      internalID: -2653867806780450544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-banana60488-49_6
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 592
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b9fc8af2dc758130800000000000000
+      internalID: 3568395525349505464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-banana60488-49_7
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 592
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceb5152d1fa7f4390800000000000000
+      internalID: -7831906047939748884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-banana60488-49_8
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 556
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e7d202cd794afc20800000000000000
+      internalID: 3240983686321199080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-banana60488-49_9
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 556
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afa0ffbc4fb66abf0800000000000000
+      internalID: -313444424916989190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-banana60488-49_10
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 556
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9b8beedd9a7c4d20800000000000000
+      internalID: 3264118648405199770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-banana60488-49_11
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 520
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ce91f1ce994af500800000000000000
+      internalID: 430737660574801609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-banana60488-49_12
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 520
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc35302d45aad9290800000000000000
+      internalID: -7881956491551091764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-banana60488-49_13
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 520
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11c36fc7d0da8bfc0800000000000000
+      internalID: -3478840438701016047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-banana60488-49_14
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 520
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 216a3fea7888675e0800000000000000
+      internalID: -1912190875435031022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-banana60488-49_15
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 484
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc703e02344416480800000000000000
+      internalID: -8907763532856883252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-banana60488-49_16
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 484
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d49fb49d041187f50800000000000000
+      internalID: 6879267401029646669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-banana60488-49_17
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 484
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aba5cc59aa0bce60800000000000000
+      internalID: 7983486486966545318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-banana60488-49_18
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 484
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e708544ed3a7f3750800000000000000
+      internalID: 6286878011073855614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-banana60488-49_19
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 484
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1b06ee06f25d2c80800000000000000
+      internalID: -8345923317682271459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-banana60488-49_20
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 448
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc8da7ad485b3af50800000000000000
+      internalID: 6891551437012785355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-banana60488-49_21
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 448
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69ab6952f1bb3ef20800000000000000
+      internalID: 3450807481944947350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-banana60488-49_22
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 448
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6877b745296409ca0800000000000000
+      internalID: -6012227908243064954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-banana60488-49_23
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 448
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d94f2a6689651ef60800000000000000
+      internalID: 8061820020526871709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-banana60488-49_24
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 448
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78b700253857a5ef0800000000000000
+      internalID: -118653233294967929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-banana60488-49_25
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 412
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb5dce0cf4f1561f0800000000000000
+      internalID: -1052400510521518657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-banana60488-49_26
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 412
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d170c4a19ff59b00800000000000000
+      internalID: 834854306946511314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-banana60488-49_27
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 412
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4092466f4a9238470800000000000000
+      internalID: 8395599918833871108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-banana60488-49_28
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 412
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d23af0e7a96e1d30800000000000000
+      internalID: 4404073655369872088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-banana60488-49_29
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 412
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55396b86591309b40800000000000000
+      internalID: 5444906467267613525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-banana60488-49_30
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 412
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fe6bf6a19bb2a290800000000000000
+      internalID: -7880530163698798862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-banana60488-49_31
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 376
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab5547bd452b2c0c0800000000000000
+      internalID: -4556883795416689222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-banana60488-49_32
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 376
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 196162954bcafee90800000000000000
+      internalID: -6994181805693331823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-banana60488-49_33
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 376
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14f96c638cae329c0800000000000000
+      internalID: -3953057902267818175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-banana60488-49_34
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 376
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78002e057620181d0800000000000000
+      internalID: -3350394005025062777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-banana60488-49_35
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 376
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a711962fafcaaa120800000000000000
+      internalID: 2425941543101206906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-banana60488-49_36
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 376
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a48f8da7568ff700800000000000000
+      internalID: 576326988458853542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-banana60488-49_37
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 340
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a0891f0f5610c660800000000000000
+      internalID: 7403942384928129186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-banana60488-49_38
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 340
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37b03f1e0f8f17a40800000000000000
+      internalID: 5364342344641612659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-banana60488-49_39
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 340
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36cd72da649293580800000000000000
+      internalID: -8846994609463108509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-banana60488-49_40
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 340
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d570acb8a7cbb4bd0800000000000000
+      internalID: -2644813121632729251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-banana60488-49_41
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 340
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18be125155f40b8e0800000000000000
+      internalID: -1679755434163836031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-banana60488-49_42
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 340
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8ba284e5dadc7790800000000000000
+      internalID: -7530903864673653878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-banana60488-49_43
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 340
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91ffa920cbb7502b0800000000000000
+      internalID: -5618948912647045351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-banana60488-49_44
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 304
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd87894866f26f9d0800000000000000
+      internalID: -2740951205850613540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-banana60488-49_45
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 304
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5f1ab7ec543cf130800000000000000
+      internalID: 3601811375618924381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-banana60488-49_46
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 304
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14af85f71675f62e0800000000000000
+      internalID: -2130388022462973375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-banana60488-49_47
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 304
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc578d5c594f37b80800000000000000
+      internalID: -8398099956009241137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-banana60488-49_48
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 304
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac8d22d236a6df8d0800000000000000
+      internalID: -2810973618217756470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-banana60488-49_49
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 304
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6d8dc8344d8c1ab0800000000000000
+      internalID: -5035994959156769427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-banana60488-49_50
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 304
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8044a1c8ee3d72b70800000000000000
+      internalID: 8874294612263060488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-banana60488-49_51
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 304
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71b3f889ae4101210800000000000000
+      internalID: 1301563290124499735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-banana60488-49_52
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 268
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e08e93a9741dda710800000000000000
+      internalID: 1706249939303655438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-banana60488-49_53
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 268
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5391d6ff2e9eb1bb0800000000000000
+      internalID: -4964117003088619211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-banana60488-49_54
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 268
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81c5faf6c18308f00800000000000000
+      internalID: 1116954402371886104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-banana60488-49_55
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 268
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70ddbe52cd63eb900800000000000000
+      internalID: 702058911073295623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-banana60488-49_56
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 268
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5643457d0b651c50800000000000000
+      internalID: 6635327331546383965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-banana60488-49_57
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 268
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47c3b431b46cd1800800000000000000
+      internalID: 584841552376577140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-banana60488-49_58
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 268
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee221dc1da7af3400800000000000000
+      internalID: 306147661639131886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-banana60488-49_59
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 268
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c473ad412a9aeb80800000000000000
+      internalID: -8364703890060118844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-banana60488-49_60
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 232
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2467093e3ab7206c0800000000000000
+      internalID: -4178641560418617790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-banana60488-49_61
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 232
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ff345aa9b5ed7ca0800000000000000
+      internalID: -6017400941507756041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-banana60488-49_62
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 232
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20db2d748eb1a1210800000000000000
+      internalID: 1304385726528535810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-banana60488-49_63
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 232
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7c98f1b94248bec0800000000000000
+      internalID: -3551015421895730050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-banana60488-49_64
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 232
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b11963c80cebbafb0800000000000000
+      internalID: -4635401657252409061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-banana60488-49_65
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 232
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 957fa1ba9ebc8a660800000000000000
+      internalID: 7397386592414529369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-banana60488-49_66
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 232
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14656e78717f1e570800000000000000
+      internalID: 8494342052633794113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-banana60488-49_67
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 232
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d2767a3ea0948e50800000000000000
+      internalID: 6810727614470582996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-banana60488-49_68
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 232
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16654adb9e034abb0800000000000000
+      internalID: -4925758311969302943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-banana60488-49_69
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 196
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57e88f46423c8dd20800000000000000
+      internalID: 3303604887756508789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-banana60488-49_70
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 196
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eb5ebe27e098cd00800000000000000
+      internalID: 993203040431266785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-banana60488-49_71
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 196
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ab864ec71eeeaa20800000000000000
+      internalID: 3075657381553015721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-banana60488-49_72
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 196
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a3d8d81d2c79b2d0800000000000000
+      internalID: -3262439921920978010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-banana60488-49_73
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 196
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2199cbcf0ad3ebc0800000000000000
+      internalID: -3754917902918512337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-banana60488-49_74
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 196
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d891c34843d8daa0800000000000000
+      internalID: -6135922184964433710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-banana60488-49_75
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 196
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 268ebd1f14f8b79a0800000000000000
+      internalID: -6234231745770952606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-banana60488-49_76
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 196
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1851627462ca6a2d0800000000000000
+      internalID: -3267735199208303231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-banana60488-49_77
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 196
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c44537084ef0facf0800000000000000
+      internalID: -238954781145344948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-banana60488-49_78
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 196
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 206e972fe42ce4210800000000000000
+      internalID: 1319205385197446658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-banana60488-49_79
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 196
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a915ab8cbed88d00800000000000000
+      internalID: 975274220703783335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-banana60488-49_80
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 196
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5fee4f8fac5dd6d0800000000000000
+      internalID: -2964111070646571169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-banana60488-49_81
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 160
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4591a4e22da50ab0800000000000000
+      internalID: -5042433842395114165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-banana60488-49_82
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 160
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30830906fcb1872e0800000000000000
+      internalID: -2127920246440314877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-banana60488-49_83
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 160
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e97fd977dd335d4f0800000000000000
+      internalID: -804679932128135266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-banana60488-49_84
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 160
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62d56e951ffb5a9a0800000000000000
+      internalID: -6222356266826179290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-banana60488-49_85
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 160
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e51346d053beaa0d0800000000000000
+      internalID: -3410655154689265314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-banana60488-49_86
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 160
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0d4f97bd7e174d90800000000000000
+      internalID: -7113683561107993329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-banana60488-49_87
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 160
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 346a834cdca50ccd0800000000000000
+      internalID: -2539930350030117309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-banana60488-49_88
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 160
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea9430af40c7f8c60800000000000000
+      internalID: 7822607438582073774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-banana60488-49_89
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 160
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca805a8c04bea8780800000000000000
+      internalID: -8679866668326516564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-banana60488-49_90
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 160
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcbb75e04736ef2a0800000000000000
+      internalID: -6701809845372732469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-banana60488-49_91
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 160
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e9d0db70002b5c80800000000000000
+      internalID: -8333031499069597208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-banana60488-49_92
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 160
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c5c8df29d909c630800000000000000
+      internalID: 3947697376782239170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-banana60488-49_93
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 160
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bee01148be309b50800000000000000
+      internalID: 6597842415184309936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-banana60488-49_94
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 160
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb22db35f124f9650800000000000000
+      internalID: 6241780310875120315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-banana60488-49_95
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 160
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a73f5587be97daa0800000000000000
+      internalID: -6136261456215197791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-banana60488-49_96
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 160
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44b5105f84beb0220800000000000000
+      internalID: 2453313120614046532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-banana60488-49_97
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 124
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d369a838d62641a0800000000000000
+      internalID: -6825725475127991341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-banana60488-49_98
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 124
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a7abec887857d780800000000000000
+      internalID: -8658354483812915291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-banana60488-49_99
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 124
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7d84d4f760c8a2c0800000000000000
+      internalID: -4420071481542406789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-banana60488-49_100
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 124
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1144f07d1c8bd360800000000000000
+      internalID: 7195498887731495196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-banana60488-49_101
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 124
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47ab49f9f0e420c20800000000000000
+      internalID: 3171182916631050868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-banana60488-49_102
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 124
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41e0c2e15bb926660800000000000000
+      internalID: 7377630341783883284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-banana60488-49_103
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 124
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ed1707c73751af00800000000000000
+      internalID: 1126277278893284837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-banana60488-49_104
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 124
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efde4ee56113d3630800000000000000
+      internalID: 3908334023778561534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-banana60488-49_105
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 124
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4da22a4271cdc57a0800000000000000
+      internalID: -6386988179561239852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-banana60488-49_106
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 124
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94cf4e92f9dfa5770800000000000000
+      internalID: 8600465298461883465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-banana60488-49_107
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 124
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d69f03acdc73ae00800000000000000
+      internalID: 1054824024805185238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-banana60488-49_108
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 124
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aed8fe0a47164bd0800000000000000
+      internalID: -2646402124187378011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-banana60488-49_109
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 124
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a47d6f09f3024b160800000000000000
+      internalID: 7040287574874052426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-banana60488-49_110
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 124
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93c5b02bee7545030800000000000000
+      internalID: 3482505094565157945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-banana60488-49_111
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 124
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de3cadcfbcf76dd80800000000000000
+      internalID: -8226247155248348179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-banana60488-49_112
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 124
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 183968d6c538b6cc0800000000000000
+      internalID: -3716732634466446463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-banana60488-49_113
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 124
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d08ff8dea5ae135a0800000000000000
+      internalID: -6543191107339028467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-banana60488-49_114
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 124
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1551900dc50a98f0800000000000000
+      internalID: -533107227854023396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-banana60488-49_115
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 88
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eae18aae75285f40800000000000000
+      internalID: 5717360952903592672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-banana60488-49_116
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 88
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a563064a91b98d1b0800000000000000
+      internalID: -5631580799592548774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-banana60488-49_117
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 88
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b869ed3df543bf20800000000000000
+      internalID: 3437167894581569714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-banana60488-49_118
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 88
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04215bc2a4ec39db0800000000000000
+      internalID: -4786255160991739328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-banana60488-49_119
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 88
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a7c24df68ad1e6c0800000000000000
+      internalID: -4115768311130437724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-banana60488-49_120
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 88
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3b72d49548fd4230800000000000000
+      internalID: 3624826252836371259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-banana60488-49_121
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 88
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4b7ad9ec90c90e10800000000000000
+      internalID: 2164472876099074891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-banana60488-49_122
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 88
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd97409477448c020800000000000000
+      internalID: 2362213283672652253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-banana60488-49_123
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 88
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 487885afe663463f0800000000000000
+      internalID: -908541374547589244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-banana60488-49_124
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 88
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c285f42fbd799a130800000000000000
+      internalID: 3578558349841487916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-banana60488-49_125
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 88
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64ed39784310d8290800000000000000
+      internalID: -7886646047331328442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-banana60488-49_126
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 88
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 333d4709306e34a60800000000000000
+      internalID: 7657216694442840883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-banana60488-49_127
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 88
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 900d163284dca16c0800000000000000
+      internalID: -4171796395090391031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-banana60488-49_128
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 88
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54a49c557d06c1b50800000000000000
+      internalID: 6565228834772830789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-banana60488-49_129
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 88
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c8c2f323652f2580800000000000000
+      internalID: -8849813635024631612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-banana60488-49_130
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 88
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc4edf01e3dc8bfd0800000000000000
+      internalID: -2325883541080120113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-banana60488-49_131
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 52
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2afff9d272b3312c0800000000000000
+      internalID: -4462157766338805854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-banana60488-49_132
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 52
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb9c6cd6592f7ba50800000000000000
+      internalID: 6536960107757357499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-banana60488-49_133
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 52
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5a8d00349596c240800000000000000
+      internalID: 4811697715585845852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-banana60488-49_134
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 52
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e265b1511a0d94f20800000000000000
+      internalID: 3407483983344916014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-banana60488-49_135
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 52
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d47e22687f6d7e7e0800000000000000
+      internalID: -1736182772732336307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-banana60488-49_136
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 52
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 491e916be11bb4870800000000000000
+      internalID: 8668216653266936212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-banana60488-49_137
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 52
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 134a45c3c6d30c9d0800000000000000
+      internalID: -2756135436872801231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-banana60488-49_138
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 52
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b84fcbbeb5c5cee40800000000000000
+      internalID: 5687021979328902283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-banana60488-49_139
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 52
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe4e4f2a21d9993e0800000000000000
+      internalID: -2046431852294249233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-banana60488-49_140
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 52
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2859284d1a10ef590800000000000000
+      internalID: -7638666123407092350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-banana60488-49_141
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 52
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed9d6fe2ed17ebda0800000000000000
+      internalID: -5927174860488386082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-banana60488-49_142
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 52
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 358c89e2020e40dd0800000000000000
+      internalID: -2520643462595295149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-banana60488-49_143
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 52
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84969199861d76a60800000000000000
+      internalID: 7667327137796942152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-banana60488-49_144
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 52
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db802d77215bba8d0800000000000000
+      internalID: -2833972449575302979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-banana60488-49_145
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 52
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b6f0bce845d85a20800000000000000
+      internalID: 3051423256728893108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-banana60488-49_146
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 16
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8964f523e3da80790800000000000000
+      internalID: -7563605091524065640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-banana60488-49_147
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 16
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15b7031a6d9fd6450800000000000000
+      internalID: 6083793371870034769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-banana60488-49_148
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 16
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db99822f4f2c43140800000000000000
+      internalID: 4698594668544825789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-banana60488-49_149
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 16
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ec06e64414c4ed30800000000000000
+      internalID: 4459905122371505379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-banana60488-49_150
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 16
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59eb6be9221e03680800000000000000
+      internalID: -8777268134937182571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-banana60488-49_151
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 16
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6acd5a529846d99a0800000000000000
+      internalID: -6224708569751233370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-banana60488-49_152
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 16
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8f4852be9fb85790800000000000000
+      internalID: -7541066887714025589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-banana60488-49_153
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 16
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c128ad516e8f0fbe0800000000000000
+      internalID: -1445381813293120996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-banana60488-49_154
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 16
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19a7d723bc9830b40800000000000000
+      internalID: 5405315483593177745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-banana60488-49_155
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 16
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab7425455a3b5aa50800000000000000
+      internalID: 6531824357236426682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-banana60488-49_156
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 16
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57c6b5694b405b2f0800000000000000
+      internalID: -957854172083164043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-banana60488-49_157
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 16
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e4df110742248c00800000000000000
+      internalID: 901883513737827557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-art-banana60488-49_158
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 16
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6acb4c93276db1e70800000000000000
+      internalID: 9087092459233918118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
